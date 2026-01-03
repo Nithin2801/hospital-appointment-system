@@ -1,3 +1,9 @@
+![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)
+
+
+
 # Hospital Appointment Management System
 
 ## Overview
@@ -49,3 +55,13 @@ cd frontend
 npm install
 npm start
 ```
+## Screenshots
+
+### Patient Panel
+![Patient Panel](screenshotsOfPatient.png)
+
+### Doctor Panel
+![Doctor Panel](screenshotsOfDoctor.png)
+
+### Admin Panel
+![Admin Panel](screenshotsOfAdmin.png)
